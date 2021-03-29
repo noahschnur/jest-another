@@ -1,25 +1,16 @@
 {
-  "name": "jest-another-rpg",
+  "name": "rpg",
   "version": "1.0.0",
-  "description": "Game for class (module 10)",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/noahschnur/jest-another.git"
-  },
-  "keywords": [
-    "rpg"
-  ],
-  "author": "Noah Schnur",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/noahschnur/jest-another/issues"
-  },
-  "homepage": "https://github.com/noahschnur/jest-another#readme",
-  "devDependencies": {
-    "jest": "^26.6.3"
+  "dependencies": {
+    "inquirer": "^7.0.3",
+    "jest": "^24.9.0"
   }
 }
